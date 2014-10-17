@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kwx:home|Door43 (kwx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kwx|d43-kwx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kwx/archive/master.zip|d43-kwx.zip]]
+
+**Recent Changes**
+{{changes>ns = kwx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kwx|Ethnologue data]]
+
